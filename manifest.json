@@ -1,15 +1,14 @@
 {
-	"manifest_version": 2,
+	"manifest_version": 3,
 	"name": "Enhanced Wikipedia Randomizer",
 	"description": "Chrome button that allows you to quickly jump through random Wikipedia articles in specified categories",
 	"version": "1.0",
 	
 	"background": { 
-		"scripts": ["getPage.js"], 
-		"persistent": false 
+		"service_worker": "getPage.js"
 		},
 		
-	"browser_action": { 
+	"action": { 
 		"default_icon": "128.png" 
 		},
 		
