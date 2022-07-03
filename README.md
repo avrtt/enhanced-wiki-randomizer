@@ -11,3 +11,4 @@ You can now pin the extension icon and use it to quickly surf random articles.
 
 ### To do
 - Interface for category settings
+- Publish to the Chrome Web Store
