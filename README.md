@@ -3,9 +3,10 @@ This simple Chrome extension adds a button to the extensions bar that opens a ra
 ### Installation
 1. Clone the repository
 2. Specify categories (optional)
-3. Go to [chrome://extensions](chrome://extensions)
-4. Turn on "Developer mode"
-5. Click "Load unpacked" and select the repository folder
+3. Go to **chrome://extensions**
+4. Turn on the "Developer mode"
+5. Click "Load unpacked" and select the repository folder  
+  
 You can now pin the extension icon and use it to quickly surf random articles.
 
 ### To do
